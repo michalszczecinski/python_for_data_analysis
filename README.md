@@ -24,5 +24,21 @@ No need to waste time copy-pasting analysis output to ppt decks !
 **5. How to share and collaborate on analysis together with the data team.**   
 Can ask data team for notebooks, tweak them and collaborate together. 
 
+## Set up instructions
 
-*Recommend opening and navigating through this notebook in `Jupyter Lab` with support for the side bar [Table of Content](https://github.com/ian-r-rose/jupyterlab-toc).
+To follow the session interactively , you can download Anaconda and open it using jupyter notebook:
+
+Full instructions: https://jupyter.readthedocs.io/en/latest/install.html
+
+Main installation steps:
+
+1. Download [Anaconda](https://www.anaconda.com/distribution/). We recommend downloading Anaconda’s latest Python 3 version.
+
+2. Install the version of Anaconda which you downloaded, following the instructions on the download page.
+
+3. Congratulations, you have installed Jupyter Notebook. To run the notebook, open terminal and run the command:
+
+``` jupyter notebook ```
+
+
+For best experience I recommend opening and navigating through this notebook in `Jupyter Lab` with added support for the side bar [Table of Content](https://github.com/ian-r-rose/jupyterlab-toc).
